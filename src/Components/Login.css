@@ -1,0 +1,38 @@
+.login {
+    width:30%;
+    margin: 0px auto;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.login input {
+    width: 80%;
+    
+}
+
+.box {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.logbutton {
+    width: 83%;
+    margin-top: 10px;
+    background: rgb(70, 209, 117);
+    color: white;
+}
+
+.join {
+    width: 83%;
+    margin: 10px;
+    margin-bottom: 30px;
+    background: rgb(70, 209, 117);
+    color: white;
+}
+
+h5 {
+    text-align: left;
+    margin-left: 30px;
+}
